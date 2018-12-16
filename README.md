@@ -1,2 +1,0 @@
-# glazblog
-My personal blog ;)
